@@ -1,1 +1,3 @@
-# Phising-Pubg-v2
+# Phising-Pub
+
+eğitim amaçlıdır kötüyü kullanımdan kullanıcı sorumludur 
